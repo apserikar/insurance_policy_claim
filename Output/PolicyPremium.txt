@@ -1,0 +1,22 @@
+PublicID,VehPublicID,VehicleNumber,Vin,CollisonPremium,ComprehensivePremium,RentalPremium
+pc:1029982305Pc_PolicyPeriod,pc:1073637105Pc_PersonalVehicle,1,JM3TB3MV6A0228561,134.00 usd,50.00 usd,16.00 usd
+pc:1029982305Pc_PolicyPeriod,pc:1073637108Pc_PersonalVehicle,4,WBA5A7C53FD625588,130.00 usd,68.00 usd,16.00 usd
+pc:1029982305Pc_PolicyPeriod,pc:1073637106Pc_PersonalVehicle,2,WBAVL1C58FVY30809,91.00 usd,44.00 usd,16.00 usd
+pc:1029982305Pc_PolicyPeriod,pc:1073637107Pc_PersonalVehicle,3,1FMCU9HX1DUD56488,75.00 usd,38.00 usd,16.00 usd
+pc:1030012916Pc_PolicyPeriod,pc:1073790681Pc_PersonalVehicle,4,WBA5A7C53FD625588,130.00 usd,68.00 usd,16.00 usd
+pc:1030012916Pc_PolicyPeriod,pc:1073790678Pc_PersonalVehicle,1,JM3TB3MV6A0228561,134.00 usd,50.00 usd,16.00 usd
+pc:1030012916Pc_PolicyPeriod,pc:1073790679Pc_PersonalVehicle,2,WBAVL1C58FVY30809,103.00 usd,48.00 usd,16.00 usd
+pc:1031114104Pc_PolicyPeriod,pc:1077673247Pc_PersonalVehicle,2,WBAVL1C58FVY30809,103.00 usd,48.00 usd,16.00 usd
+pc:1031114104Pc_PolicyPeriod,pc:1077673246Pc_PersonalVehicle,1,JM3TB3MV6A0228561,71.00 usd,28.00 usd,16.00 usd
+pc:1031206344Pc_PolicyPeriod,pc:1078124735Pc_PersonalVehicle,5,WBAJA7C53JWA74495,106.00 usd,49.00 usd,9.00 usd
+pc:1031206344Pc_PolicyPeriod,pc:1078124714Pc_PersonalVehicle,2,WBAVL1C58FVY30809,103.00 usd,48.00 usd,16.00 usd
+pc:1031206344Pc_PolicyPeriod,pc:1078124713Pc_PersonalVehicle,1,JM3TB3MV6A0228561,79.00 usd,30.00 usd,16.00 usd
+pc:1032062235Pc_PolicyPeriod,pc:1081291401Pc_PersonalVehicle,5,WBAJA7C53JWA74495,54.00 usd,24.00 usd,9.00 usd
+pc:1032062235Pc_PolicyPeriod,pc:1081291395Pc_PersonalVehicle,2,WBAVL1C58FVY30809,44.00 usd,18.00 usd,16.00 usd
+pc:28628053Pc_PolicyPeriod,pc:68033785Pc_PersonalVehicle,3,1FMCU9HX1DUD56488,91.00 usd,44.00 usd,16.00 usd
+pc:28628053Pc_PolicyPeriod,pc:68033784Pc_PersonalVehicle,2,WBAVL1C58FVY30809,103.00 usd,48.00 usd,16.00 usd
+pc:28628053Pc_PolicyPeriod,pc:68033783Pc_PersonalVehicle,1,JM3TB3MV6A0228561,134.00 usd,50.00 usd,16.00 usd
+pc:28628053Pc_PolicyPeriod,pc:68033786Pc_PersonalVehicle,4,WBA5A7C53FD625588,130.00 usd,68.00 usd,16.00 usd
+pc:15996599Pc_PolicyPeriod,pc:44394242Pc_PersonalVehicle,1,JTHCL46F395002721,148,36,13,6,104,88,96
+pc:15996599Pc_PolicyPeriod,pc:55189494Pc_PersonalVehicle,3,WP1AB2A24GLA95650,192,37,13,64,5,60
+pc:15996599Pc_PolicyPeriod,pc:44394243Pc_PersonalVehicle,2,WBABW53454PL42797,115,24,13,86,7,80
